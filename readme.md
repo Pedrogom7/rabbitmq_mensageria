@@ -37,8 +37,8 @@ Acesse o painel de controle do RabbitMQ em [http://localhost:15672](http://local
 Clone este repositório em sua máquina:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_DIRETORIO>
+git clone <https://github.com/Pedrogom7/rabbitmq_mensageria/tree/main>
+cd <rabbitmq_messageria>
 ```
 
 ### 3. Instalando Dependências
